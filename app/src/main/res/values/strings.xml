@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Weather Here</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="prediction">Prediction</string>
+    <string name="location">Location</string>
+    <string name="image_view">Image View</string>
+    <string name="bogor">Bogor</string>
+    <string name="tue_13_april_2020">Tue, 13 April 2020</string>
+    <string name="_32">32</string>
+    <string name="sunset">Sunset</string>
+    <string name="_05_51_pm">05:51 PM</string>
+    <string name="visibility">Visibility</string>
+    <string name="_9000">9000</string>
+    <string name="humidity">Humidity</string>
+    <string name="_66">66</string>
+    <string name="_05_52_am">05:52 AM</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="wind">Wind</string>
+    <string name="_2_57">2.57</string>
+    <string name="_1011">1011</string>
+    <string name="pressure">Pressure</string>
+    <string name="c">°C</string>
+</resources>
