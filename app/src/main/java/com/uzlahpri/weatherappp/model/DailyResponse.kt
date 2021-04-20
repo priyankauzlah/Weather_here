@@ -5,7 +5,6 @@ import com.uzlahpri.weatherappp.model.all.Clouds
 import com.uzlahpri.weatherappp.model.all.Coord
 import com.uzlahpri.weatherappp.model.all.Main
 import com.uzlahpri.weatherappp.model.all.Sys
-import com.uzlahpri.weatherappp.model.all.WeatherItem
 import com.uzlahpri.weatherappp.model.all.Wind
 
 data class DailyResponse(
