@@ -22,4 +22,5 @@
     <string name="_1011">1011</string>
     <string name="pressure">Pressure</string>
     <string name="c">°C</string>
+    <string name="celcius">°</string>
 </resources>

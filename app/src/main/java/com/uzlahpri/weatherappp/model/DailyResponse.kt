@@ -4,7 +4,6 @@ import com.google.gson.annotations.SerializedName
 import com.uzlahpri.weatherappp.model.all.Clouds
 import com.uzlahpri.weatherappp.model.all.Coord
 import com.uzlahpri.weatherappp.model.all.Main
-import com.uzlahpri.weatherappp.model.all.Sys
 import com.uzlahpri.weatherappp.model.all.Wind
 
 data class DailyResponse(
@@ -103,7 +102,7 @@ data class ListItemd(
 	val clouds: Clouds? = null,
 
 	@field:SerializedName("sys")
-	val sys: Sys? = null,
+	val sysc: Sysc? = null,
 
 	@field:SerializedName("wind")
 	val wind: Wind? = null
@@ -124,7 +123,7 @@ data class Clouds(
 	val all: Int? = null
 )
 
-data class Sys(
+data class Sysc(
 
 	@field:SerializedName("country")
 	val country: String? = null
